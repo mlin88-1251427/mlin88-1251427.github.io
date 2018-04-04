@@ -1,0 +1,27 @@
+body {
+	background-color: lightgreen;
+}
+
+div {
+	padding: 3px;
+}
+
+p {
+	font-family: Arial, Times, serif;
+	margin: 3px;
+}
+
+h4 {
+	font-family: Arial, Times, serif;
+	margin: 3px;
+}
+
+img {
+	float: right;
+	height: 100%;
+	width: 25%;
+	margin: 10px;
+	border-style: solid;
+	border-color: green;
+	border-radius: 10px;
+}
